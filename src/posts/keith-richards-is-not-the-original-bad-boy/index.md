@@ -5,4 +5,6 @@ description: Keith richards isnt the original bad boy
 ---
 Brian Jones is! 
 
-![](hendrix.jpg)
+![]()
+
+![]()
